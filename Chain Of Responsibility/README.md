@@ -1,5 +1,7 @@
 # Chain Of Responsiblity Design Pattern
 >It consists of structuring your code in a way that allows you to decouple the sender of a request with the object that can fulfill it.
+>An example of a chain-of-responsibility is event-bubbling in which an event propagates through a series of nested controls one of which may choose to handle the event. 
+>The Chain of Responsiblity patterns is related to the Chaining Pattern which is frequently used in JavaScript (jQuery makes extensive use of this pattern). 
 >the adapter is basically a wrapper around a particular class or object, which provides a different API and utilizes the object’s original one in the background.
 
 
@@ -12,3 +14,6 @@ In other words, having object A sending request R, you might have three differen
 The answer to the last question is: no, it shouldn’t. So instead, if A shouldn’t care about who’s going to take care of the request, why don’t we let R1, R2 and R3 decide by themselves?
 
 Here is where the chain of responsibility comes into play, we’re creating a chain of receiving objects, which will try to fulfill the request and if they can’t, they’ll just pass it along. Does it sound familiar yet?
+
+## See This For Better Understanding:
+![Chain Of Responsiblity](./ChainOfResponsibility.png)
