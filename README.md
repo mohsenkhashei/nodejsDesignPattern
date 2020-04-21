@@ -18,5 +18,7 @@ quick refrence of design pattern for knowing concepts
 
 ## Use Case
 for better undrestandig just pick one and start with readme file if need prerequisites start from that.
+
 ### Structure
-All design pattern have README file
+All design pattern have README file<br>
+important note: code maybe doesn't work just for showing the concept 
