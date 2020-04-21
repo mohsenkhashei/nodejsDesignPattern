@@ -1,6 +1,7 @@
-# Node JS Design Patterns
-quick refrence of design pattern for knowing concepts
+# Node JS Design Patterns Cheat Sheet
 
+
+![Design Pattern](./designpattern.png)
 ## Design Patterns are as follow(no specific order)
 1. Adaptor
 2. Chain Of Responsibility
