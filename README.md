@@ -17,9 +17,10 @@
 12. State
 13. Template
 
-## Use Case
+## Getting started
 for better undrestandig just pick one and start with readme file if need prerequisites start from that.
 
 ### Structure
 All design pattern have README file<br>
-important note: code maybe doesn't work just for showing the concept 
+**NOTE**
+ code maybe doesn't work just for showing the concept 
