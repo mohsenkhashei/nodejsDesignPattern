@@ -13,3 +13,6 @@ Notice how I used inheritance to try and force the implementation of some of the
 - Receiving commands from a client application, such as would be the case for a game, where the client application keeps sending command messages to the back-end server for it to process, run them and return the results
 
 - A chat server that receives events from different clients and needs to process them individually
+
+## See This For Better Understanding:
+![Command](./Command.png)
