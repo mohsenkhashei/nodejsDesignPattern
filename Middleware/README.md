@@ -15,3 +15,6 @@ Another useful pattern of use for middleware is to process and parse request dat
 The json middleware that we just created is very simple: 
 - The inbound middleware deserializes the message received as an input and assigns the result back to the data property of message, so that it can be further processed along the pipeline 
 - The outbound middleware serializes any data found into message.data
+
+## See This For Better Understanding:
+![Middleware](./Middleware.png)
