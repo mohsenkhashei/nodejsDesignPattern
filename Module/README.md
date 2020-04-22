@@ -13,3 +13,6 @@ If you happen to be using several external libraries (especially when you’re w
 
 ## Use Cases
 The module pattern is definitely one of the most common ones because it seems to have been born out of the necessity for control over what to share and what to hide from your modules.
+
+## See This For Better Understanding:
+![Module](./Module.jpg)
