@@ -30,3 +30,6 @@ example 1 is about Bank
 example 2 is with proxy API 
 
 More info: https://grokonez.com/node-js/ways-to-implement-proxy-pattern-in-node-js
+
+## See This For Better Understanding:
+![Proxy](./Proxy.png)
