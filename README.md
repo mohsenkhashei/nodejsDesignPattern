@@ -20,7 +20,10 @@
 ## Getting started
 for better undrestandig just pick one and start with readme file if need prerequisites start from that.
 
-### Structure
-All design pattern have README file<br>
+### Readme File Structure
+- Use cases: the best practice use case 
+- More Info: more information that is good to know
+- Example: existed in each design pattern folder
 **NOTE**
  code maybe doesn't work just for showing the concept 
+- Better Undrestanding: An image of design pattern concept

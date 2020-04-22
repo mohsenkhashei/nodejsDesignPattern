@@ -5,7 +5,7 @@
 
 
 
-More Info: http://thenodeway.io/posts/designing-factories/
+Reference : http://thenodeway.io/posts/designing-factories/
 
 ## See This For Better Understanding:
 ![Factory](./Factory.png)
