@@ -16,6 +16,8 @@
 11. Strategy
 12. State
 13. Template
+14. Null
+15. Facade
 
 ## Getting started
 for better undrestandig just pick one and start with readme file if need prerequisites start from that.
