@@ -1,6 +1,9 @@
-module.exports = {
-    testLoginStrategy: require("./testLoginStrategy"),
-    activeDirectoryLoginStrategy: require("./activeDirectoryLoginStrategy"),
-    databaseLoginStrategy: require("./databaseLoginStrategy"),
-    defaultLoginStrategy: require("./defaultLoginStrategy")
-};
+// import testLoginStrategy from './testLoginStrategy.js';
+// import databaseLoginStrategy from './databaseLoginStrategy.js';
+import defaultLoginStrategy from './defaultLoginStrategy.js';
+export default  {
+		// testLoginStrategy,
+		// databaseLoginStrategy,
+		defaultLoginStrategy: defaultLoginStrategy,
+	}
+
